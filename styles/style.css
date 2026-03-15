@@ -29,9 +29,7 @@ body {
   list-style: circle;
 }
 
-.header__links-list-item {
 
-}
 
 .header__links-list-item_no-bullit {
   list-style: none;
@@ -184,7 +182,7 @@ body {
 
 }
 
-.lots__heading{
+.lots__heading {
   font-size: 40px;
   font-weight: bold;
   text-transform: uppercase;
@@ -273,7 +271,7 @@ body {
 
 
 
-.about{
+.about {
   margin-top: 120px;
   display: grid;
   grid-template-columns: 287px 693px;
@@ -397,9 +395,7 @@ body {
   padding: 0;
 }
 
-.footer__menu-list-item {
 
-}
 
 
 .footer__menu-link {
@@ -427,9 +423,6 @@ body {
   padding: 0;
 }
 
-.footer__social-list-item {
-
-}
 
 .footer__social-link {
   display: flex;
