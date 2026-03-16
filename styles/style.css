@@ -338,29 +338,15 @@ body {
   flex-direction: column;
   gap: 24px;
   max-width: 693px;
-  position: absolute;
   margin-top: 150px;
   margin-left: 0;
 }
 
-.about__text p {
+.about__p {
   font-size: 20px;
   line-height: 24px;
   margin: 0;
 }
-
-.about__text-one {
-  width: 688px;
-  height: 120px;
-  margin-top: 0;
-}
-
-.about__text-two {
-  width: 693px;
-  height: 168px;
-  margin-bottom: 0;
-}
-
 
 
 
@@ -445,5 +431,4 @@ body {
   height: 48px;
   display: block;
 }
-
 
