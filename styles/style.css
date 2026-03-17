@@ -47,7 +47,7 @@ body {
   list-style: none;
 }
 
-.header__link {    
+.header__link {   
     list-style: circle;
     box-sizing: border-box;
     color: inherit;
