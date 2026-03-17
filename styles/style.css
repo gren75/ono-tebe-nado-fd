@@ -47,7 +47,7 @@ body {
   list-style: none;
 }
 
-.header__link {  
+.header__link {
   list-style: circle;
   box-sizing: border-box;
   color: inherit;
@@ -107,7 +107,7 @@ body {
 
 
 .cover {
-position: relative;
+  position: relative;
   padding: 165px 50px 0;
   background-image: url(../images/cover.jpg);
   background-size: cover;
