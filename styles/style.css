@@ -9,7 +9,6 @@ body {
 
 
 .header {
-    font-family: Raleway, 'Arial', 'Helvetica', sans-serif;
     display: grid;
     grid-template-columns: 1fr min-content 1fr;
     align-items: center;
@@ -22,7 +21,6 @@ body {
 
 
 .header__menu {
-    font-family: Raleway, 'Arial', 'Helvetica', sans-serif;
     box-sizing: border-box;
     justify-self: start;
 }
@@ -30,7 +28,6 @@ body {
 
 
 .header__links-list {
-    font-family: Raleway, 'Arial', 'Helvetica', sans-serif;
     box-sizing: border-box;
     display: flex;
     gap: 35px;
@@ -40,7 +37,6 @@ body {
 }
 
 .header__links-list-item {
-      font-family: Raleway, 'Arial', 'Helvetica', sans-serif;
     list-style: circle;
     box-sizing: border-box;
     margin: 0;
@@ -52,7 +48,6 @@ body {
 }
 
 .header__link {    
-    font-family: Raleway, 'Arial', 'Helvetica', sans-serif;
     list-style: circle;
     box-sizing: border-box;
     color: inherit;
@@ -69,16 +64,11 @@ body {
     width: 148px;
     height: 105px;
     justify-self: center;
-    color: inherit;
-    box-sizing: border-box;
-    font-family: Raleway, 'Arial', 'Helvetica', sans-serif;
+
 }
 
 
 .header__logo-image {
-    font-family: Raleway, 'Arial', 'Helvetica', sans-serif;
-    color: inherit;
-    box-sizing: border-box;
     height: 100%;
     width: 100%;
     margin: 0px 1px 0.5px 2.5px;
@@ -105,16 +95,9 @@ body {
 }
 
 
-.main {
-    font-family: Raleway, 'Arial', 'Helvetica', sans-serif;
-    box-sizing: border-box;
-}
-
 
 
 .overlay {
-    font-family: Raleway, 'Arial', 'Helvetica', sans-serif;
-    box-sizing: border-box;
     position: absolute;
     inset: 0;
     background-color: rgba(0, 0, 0, 0.6);
@@ -124,8 +107,7 @@ body {
 
 
 .cover {
-    font-family: Raleway, 'Arial', 'Helvetica', sans-serif;
-    position: relative;
+position: relative;
     padding: 165px 50px 0;
     background-image: url(../images/cover.jpg);
     background-size: cover;
@@ -133,25 +115,20 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 757px;
-    box-sizing: border-box;
 }
 
 .cover__title {
-    box-sizing: border-box;
     margin: 0;
     padding: 0;
     width: 100%;
     z-index: 2;
     color: #fff;
-    font-family: Raleway, 'Arial', 'Helvetica', sans-serif;
-    font-size: 100px;
+font-size: 100px;
     font-weight: bold;
     text-transform: uppercase;
     line-height: 1;
 }
 
-.aligned-text {
-}
 
 .aligned-text_left {
   display:flex;
